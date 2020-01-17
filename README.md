@@ -17,3 +17,6 @@ MobileElement elem = (MobileElement) driver.findElement(By.id(“loginButton”)
 	  System.out.println("Red Color value = "+ red);
 	  System.out.println("Green Color value = "+ green);
 	  System.out.println("Blue Color value = "+ blue);
+
+
+http://automationtesting.in/image-comparison-in-selenium/
